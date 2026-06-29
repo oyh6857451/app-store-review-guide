@@ -1,6 +1,4 @@
-@[TOC](2026最新App Store10类高频拒审和解决方案)
-
-本人专业从事马甲包行业，这里整理了近 3 个月共 238 个拒审包里比较常见的拒审条款和处理方案。这里挑重点分享出来，希望能帮正在做马甲包开发、iOS 上架、多包矩阵、App Store 拒审处理的朋友少踩坑。
+本文整理了近 3 个月共 238 个拒审包里比较常见的拒审条款和处理方案。希望能帮正在做马甲包开发、iOS 上架、多包矩阵、App Store 拒审处理的朋友少踩坑。
 
 ## 一、拒审数据统计
 
@@ -238,9 +236,3 @@ App needs camera access.
 有马甲包开发、iOS 上架、App Store 拒审处理、4.3等问题，可以联系交流合作。
 
 QQ：1798225829
-
-## 参考资料
-
-- [Apple App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
-- [App 审核指南（中文）](https://developer.apple.com/app-store/review/guidelines/cn/)
-- [App Store Connect：提交审核说明](https://developer.apple.com/help/app-store-connect/manage-submissions-to-app-review/submit-for-review/)
